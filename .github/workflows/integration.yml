@@ -1,7 +1,8 @@
 name: Integration
 
-on:
-  push:
+on: t
+
+  push: /
     branches: [main]
   pull_request:
     branches: [main]
